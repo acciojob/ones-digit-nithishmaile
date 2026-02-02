@@ -6,5 +6,5 @@ n = n.toString();        // convert number to string safely
 
 // Do not change the code below
 
-//const n = prompt("Enter Number:");
+const n = prompt("Enter Number:");
 alert(onesDigit(n));
